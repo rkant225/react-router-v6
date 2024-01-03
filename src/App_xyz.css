@@ -1,0 +1,28 @@
+.navbar {
+    padding: 1rem;
+    background-color: rgb(131, 188, 238);
+    /* opacity: .6; */
+}
+.navbar a{
+    margin-right: 1rem;
+    color: black;
+    outline: none;
+    text-decoration: none;
+}
+
+.navbar a.active{
+    font-weight: bold;
+}
+
+.mini-navbar a {
+    margin-right: 1rem;
+}
+
+.div-button{
+    padding: .3rem;
+    border: 1px solid gray;
+    border-radius: .5rem;
+    width: max-content;
+    margin: .3rem;
+    cursor: pointer;
+}

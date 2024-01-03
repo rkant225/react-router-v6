@@ -1,3 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.active{
+  color: red;
+  font-weight: 600;
+}
+.in-active{
+  color: gray;
+}
 .App {
   text-align: center;
 }
